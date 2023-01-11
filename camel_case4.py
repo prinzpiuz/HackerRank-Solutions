@@ -1,14 +1,23 @@
+"""Solution for CamelCase4 Problem.
+"""
+
+
 class StringManipulation:
-    """String manipulation class
-    """
-    def __init__(self, string):
-        self.string = string
-        self.string_components = string.split(";")
+    """String manipulation class"""
+
+    def __init__(self, input_string):
+        self.string = input_string
+        self.string_components = input_string.split(";")
         self.type_of_operation = self.string_components[0]
         self.type_to_generate = self.string_components[1]
         self.output_string = self.string_components[2]
 
     def manipulate(self):
+        """Manipulate input strings
+
+        Returns:
+            str: output string
+        """
         if self.type_of_operation == "S":
             self.split_string()
         else:
@@ -16,6 +25,7 @@ class StringManipulation:
         return self.output_string
 
     def combine(self):
+        """Combine string"""
         cobine_list = self.output_string.split(" ")
         for count, word in enumerate(cobine_list):
             if self.type_to_generate == "V":
@@ -24,7 +34,7 @@ class StringManipulation:
                 else:
                     cobine_list[count] = word.title()
             elif self.type_to_generate == "M":
-                if not cobine_list.__contains__("()"):
+                if "()" not in cobine_list:
                     cobine_list.append("()")
                 if count == 0:
                     cobine_list[count] = word.lower()
@@ -36,6 +46,7 @@ class StringManipulation:
         cobine_list.clear()
 
     def split_string(self):
+        """Split string"""
         string_to_list = list(self.output_string.split("()")[0])
         copy_string_to_list = string_to_list.copy()
         for char in string_to_list:
