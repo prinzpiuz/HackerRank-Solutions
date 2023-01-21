@@ -56,5 +56,5 @@ if __name__ == "__main__":
         )
         readme_file.write("\n***\n")
         readme_file.write(
-            "This is an auto generated file using [this](repo_utils/table_maker.py)\n"
+            "This is an auto generated file using [this](repo_utils/readme_builder.py)\n"
         )
