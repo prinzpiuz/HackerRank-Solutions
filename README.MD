@@ -7,4 +7,4 @@
 |3                                               |Sparse Arrays                                   |Python                                          |[sparse_arrays.py](sparse_arrays.py)            |
 
 ***
-This is an auto generated file using [this](repo_utils/table_maker.py)
+This is an auto generated file using [this](repo_utils/readme_builder.py)
