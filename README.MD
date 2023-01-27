@@ -2,11 +2,12 @@
 #### Contents 
 |SL NO                                           |PROBLEM                                         |LANGUAGE                                        |FILE                                            |
 |------------------------------------------------|------------------------------------------------|------------------------------------------------|------------------------------------------------|
-|1                                               |Lonely Integer                                  |Python                                          |[lonely_integer.py](lonely_integer.py)          |
-|2                                               |Camel Case4                                     |Python                                          |[camel_case4.py](camel_case4.py)                |
-|3                                               |Divisible Sum Pairs                             |Python                                          |[divisible_sum_pairs.py](divisible_sum_pairs.py)|
-|4                                               |Grading Students                                |Python                                          |[grading_students.py](grading_students.py)      |
-|5                                               |Sparse Arrays                                   |Python                                          |[sparse_arrays.py](sparse_arrays.py)            |
+|1                                               |Flipping Bits                                   |Python                                          |[flipping_bits.py](flipping_bits.py)            |
+|2                                               |Lonely Integer                                  |Python                                          |[lonely_integer.py](lonely_integer.py)          |
+|3                                               |Camel Case4                                     |Python                                          |[camel_case4.py](camel_case4.py)                |
+|4                                               |Divisible Sum Pairs                             |Python                                          |[divisible_sum_pairs.py](divisible_sum_pairs.py)|
+|5                                               |Grading Students                                |Python                                          |[grading_students.py](grading_students.py)      |
+|6                                               |Sparse Arrays                                   |Python                                          |[sparse_arrays.py](sparse_arrays.py)            |
 
 ***
 This is an auto generated file using [this](repo_utils/readme_builder.py)
