@@ -6,8 +6,9 @@
 |2                                               |Lonely Integer                                  |Python                                          |[lonely_integer.py](lonely_integer.py)          |
 |3                                               |Camel Case4                                     |Python                                          |[camel_case4.py](camel_case4.py)                |
 |4                                               |Divisible Sum Pairs                             |Python                                          |[divisible_sum_pairs.py](divisible_sum_pairs.py)|
-|5                                               |Grading Students                                |Python                                          |[grading_students.py](grading_students.py)      |
-|6                                               |Sparse Arrays                                   |Python                                          |[sparse_arrays.py](sparse_arrays.py)            |
+|5                                               |Diagonol Difference                             |Python                                          |[diagonol_difference.py](diagonol_difference.py)|
+|6                                               |Grading Students                                |Python                                          |[grading_students.py](grading_students.py)      |
+|7                                               |Sparse Arrays                                   |Python                                          |[sparse_arrays.py](sparse_arrays.py)            |
 
 ***
 This is an auto generated file using [this](repo_utils/readme_builder.py)
