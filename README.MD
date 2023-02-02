@@ -4,12 +4,13 @@
 |------------------------------------------------|------------------------------------------------|------------------------------------------------|------------------------------------------------|
 |1                                               |Flipping Bits                                   |Python                                          |[flipping_bits.py](flipping_bits.py)            |
 |2                                               |Lonely Integer                                  |Python                                          |[lonely_integer.py](lonely_integer.py)          |
-|3                                               |Camel Case4                                     |Python                                          |[camel_case4.py](camel_case4.py)                |
-|4                                               |Divisible Sum Pairs                             |Python                                          |[divisible_sum_pairs.py](divisible_sum_pairs.py)|
-|5                                               |Diagonol Difference                             |Python                                          |[diagonol_difference.py](diagonol_difference.py)|
-|6                                               |Grading Students                                |Python                                          |[grading_students.py](grading_students.py)      |
-|7                                               |Counting Sort1                                  |Python                                          |[counting_sort1.py](counting_sort1.py)          |
-|8                                               |Sparse Arrays                                   |Python                                          |[sparse_arrays.py](sparse_arrays.py)            |
+|3                                               |Counting Valleys                                |Python                                          |[counting_valleys.py](counting_valleys.py)      |
+|4                                               |Camel Case4                                     |Python                                          |[camel_case4.py](camel_case4.py)                |
+|5                                               |Divisible Sum Pairs                             |Python                                          |[divisible_sum_pairs.py](divisible_sum_pairs.py)|
+|6                                               |Diagonol Difference                             |Python                                          |[diagonol_difference.py](diagonol_difference.py)|
+|7                                               |Grading Students                                |Python                                          |[grading_students.py](grading_students.py)      |
+|8                                               |Counting Sort1                                  |Python                                          |[counting_sort1.py](counting_sort1.py)          |
+|9                                               |Sparse Arrays                                   |Python                                          |[sparse_arrays.py](sparse_arrays.py)            |
 
 ***
 This is an auto generated file using [this](repo_utils/readme_builder.py)
