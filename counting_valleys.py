@@ -13,6 +13,7 @@ def countingValleys(steps: int, path: str) -> int:
 
     Returns:
         int: Count of valleys traversed.
+        
     """
     height = 0
     valleys = 0

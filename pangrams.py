@@ -10,7 +10,8 @@ def pangrams(s: str) -> str:
         s (str): Input string.
 
     Returns:
-        str: Returns either `pangram` or `not pangram`
+        str: Returns either `pangram` or `not pangram`.
+        
     """
     contained_letters = []
     for letter in s.replace(" ", ""):
